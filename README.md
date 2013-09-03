@@ -68,7 +68,7 @@ Feel free to send pull requests. i love little helpers which are usefull :)
 
 Here is all the helpers provided and their respective API. the source contains a jsdoc
 which is authoritative.
-
+ 
 ## webaudiox.bytetonormalizedfloat32array.js
 
 You can see the
